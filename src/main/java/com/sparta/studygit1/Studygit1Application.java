@@ -8,7 +8,7 @@ public class Studygit1Application {
 
     public static void main(String[] args) {
         int num=1;
-
+        int num=2;
 
         SpringApplication.run(Studygit1Application.class, args);
     }
